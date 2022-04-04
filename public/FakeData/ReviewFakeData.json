@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "John Smith",
+        "img": "https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "review": "Great first time bridge camera. Easy to use, lightweight offers excellent value for money if you re a novice photographer and arent ready to invest in something with a heftier price tag. The camera takes up to a 32mg memory card (I brought 64!).",
+        "rating": 4
+    },
+    {
+        "id": 2,
+        "name": "Alex leo",
+        "img": "https://images.pexels.com/photos/374044/pexels-photo-374044.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "review": "I love this little camera!! For the price, I'm actually quite impressed by the camera's photo and video quality. If someone was wanting a nice quality camera at an affordable price, I definitely recommend this one.",
+        "rating": 4.5
+    },
+    {
+        "id": 3,
+        "name": "Hurry Ampeo",
+        "img": "https://images.pexels.com/photos/91227/pexels-photo-91227.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "review": "I've used this camera for scenic pics, pics using the timer, pics of animals etc etc I really like it.Pics can be immediately downloaded to a computer and printed. It's so easy to use to Definitely recommend.",
+        "rating": 5
+    },
+    {
+        "id": 4,
+        "name": "Alex Alampa",
+        "img": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "review": "I love this little camera!! For the price, I'm actually quite impressed by the camera's photo and video quality. If someone was wanting a nice quality camera at an affordable price, I definitely recommend this one.",
+        "rating": 5
+    },
+    {
+        "id": 5,
+        "name": "Huron Ampa",
+        "img": "https://images.pexels.com/photos/374044/pexels-photo-374044.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "review": "After having two Nikon cameras that literally fell apart due to cheap plastics, my hoped weren't too great for this one. But not only is this camera made better steel hinges on the SD/Battery door! it takes far superior pictures to the Nikons!",
+        "rating": 4
+    },
+    {
+        "id": 6,
+        "name": "Norex Area",
+        "img": "https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "review": "This camera was barely used by us. Bought during Christmas time, but until last month, had not been used. We used it about a month and now won't take a charge - battery or camera is faulty, not sure which one.",
+        "rating": 4.5
+    }
+]
