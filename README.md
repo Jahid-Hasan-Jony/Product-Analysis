@@ -1,6 +1,6 @@
 # PENTAX Camera
 
-Live Project Link [PENTAX Camera](https://pentax-camera.netlify.app/).
+Live Project Link : [PENTAX Camera](https://pentax-camera.netlify.app/).
 
 ## What I do on this project
 * Using React Library
