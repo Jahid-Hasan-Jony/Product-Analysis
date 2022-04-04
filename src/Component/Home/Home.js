@@ -6,6 +6,9 @@ const Home = () => {
     const [reviews] = useReviews()
     return (
         <div className='container'>
+            <div>
+
+            </div>
             <h1 className='text-center py-2'>Review</h1>
             <div className='row d-flex'>
                 {reviews.slice(-3).map(review => <ReviewCard key={review.id} data={review} />)}
