@@ -2,7 +2,7 @@ import React from 'react';
 
 const NotFoundPage = () => {
     return (
-        <div className='text-center'>
+        <div className='text-center py-5'>
             <h1>
                 The Page your are looking for is not Available
             </h1>
